@@ -10,4 +10,4 @@ department-Specific-description = Jobs that not all stations have.
 department-Dignitary-description = Assist Heads of Staff and Captain, follow your directives.
 
 #Andromeda
-department-royalty-description = Realeza.
+department-royalty-description = Nobreza.
